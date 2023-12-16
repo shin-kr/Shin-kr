@@ -7,7 +7,6 @@
 
 ### 연락
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shindonghyun0124@gmail.com)](mailto:shindonghyun0124@gmail.com)
-[![Discord Badge](https://img.shields.io/badge/Discord-5865f2?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/users/426688664337383425)](https://discord.com/users/426688664337383425)
 
 
 ---
